@@ -35,9 +35,9 @@ __to show the important points in highlighted manner__
 ``` [gitHubLinks]("https://github.com/")  ```
 
 ```
-***
+<!-- ***
 **result of my powerbi project** 
-![project]("https://github.com/321999/Data-analysis-using-power-bi/blob/main/analysisproject..JPG")
+![project]("https://github.com/321999/Data-analysis-using-power-bi/blob/main/analysisproject..JPG") -->
 
 
 ***
