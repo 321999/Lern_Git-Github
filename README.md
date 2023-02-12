@@ -8,7 +8,7 @@ clone means making copy of some another and modyfying it in your own repository
 
 ###### There are total 5 hashes in
 
-Hashes "#" are like *h1 h2 h2* in HTML
+**Hashes "#" are like *h1 h2 h2* in HTML**
 *** 
 **
 **this command is used to bold or make strong the text**
